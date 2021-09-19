@@ -26,7 +26,7 @@ O template está disponível na seguinte URL:
 
 Agora navegue até a pasta criada, abra no Visual Studio Code e por último abra o arquivo `index.js`. Lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências e você terá o seguinte código:
 
-![Dasafio%2001%20-%20Conceitos%20de%20Node%20js%2046e936e1998e4258bff5f18da600abd2/Untitled.png](Dasafio%2001%20-%20Conceitos%20de%20Node%20js%2046e936e1998e4258bff5f18da600abd2/Untitled.png)
+![image](https://user-images.githubusercontent.com/39800209/133928535-f75c7761-58b5-424f-aaab-1c65a778841c.png)
 
 ## Rotas da aplicação
 
@@ -137,7 +137,8 @@ Para completar todos os testes referentes à *todos* é necessário antes ter co
 
 **Observação:** O username deve ser enviado pelo header em uma propriedade chamada `username`:
 
-![Dasafio%2001%20-%20Conceitos%20de%20Node%20js%2046e936e1998e4258bff5f18da600abd2/Untitled%201.png](Dasafio%2001%20-%20Conceitos%20de%20Node%20js%2046e936e1998e4258bff5f18da600abd2/Untitled%201.png)
+![image](https://user-images.githubusercontent.com/39800209/133928507-92d0bd3f-d8af-46db-b534-ae2995149d77.png)
+
 
 - **Should be able to list all user's todos**
 
